@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cmath>
 #include <fstream>
-#include <array>
 
 class stats {
 public:
