@@ -1,3 +1,10 @@
+/*******************************
+NIkolas Praseutsinh
+Computer Science Fall 2025
+Due: Oct, 14, 2025
+Lab 3: User and File I/O
+Demo of file and user input and output
+*********************************/
 #include <iostream>
 #include <cmath>
 #include <fstream>
