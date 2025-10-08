@@ -1,5 +1,5 @@
 /*******************************
-NIkolas Praseutsinh
+Nikolas Praseutsinh
 Computer Science Fall 2025
 Due: Oct, 14, 2025
 Lab 3: User and File I/O
